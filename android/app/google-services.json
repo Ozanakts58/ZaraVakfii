@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899583638665",
+    "project_id": "zara-vakfi",
+    "storage_bucket": "zara-vakfi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899583638665:android:791a07624fdcfb136b5a58",
+        "android_client_info": {
+          "package_name": "com.example.untitled27"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdjqCL11NazdO5RhWImxu30-WvgH3Nok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
